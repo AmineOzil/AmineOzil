@@ -11,9 +11,9 @@
   - Software dev projects (Mobile or Web)
   - R&D on software engineering topics
   - Software testing projects
-- 📫 How to reach me :
-Personal mail: boualimohammedamin@gmail.com
-Professional mail: mohammed-amin.bouali@berger-levrault.com
+- 📫 How to reach me : 
+Personal mail: boualimohammedamin@gmail.com 
+Professional mail: mohammed-amin.bouali@berger-levrault.com 
 LinkedIn : https://www.linkedin.com/in/medaminbouali/
 
 
