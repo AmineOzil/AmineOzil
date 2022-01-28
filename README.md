@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @AmineOzil, I'm a software engineer and a trainee on R&D at [Berger-Levrault](https://www.berger-levrault.com/fr/groupe-berger-levrault/qui-sommes-nous/)
+- 👋 Hi, I’m @AmineOzil, I'm a software engineer 
 - 👀 I’m interested in :
-  - Software Testing & QA 
   - Software development (Mobile + Web + Desktop)
+  - Software Testing & QA 
   - AI & Machine Learning
 - 🌱 I’m currently learning :
-  - Test automation using Selenium, Jenkins & Docker
-  - Machine learning techniques using Linear regression and correlation models
-  - SCRUM development process
+  - GCP + GKE
+  - Jenkins
 - 💞️ I’m looking to collaborate on :
   - Software dev projects (Mobile or Web)
   - R&D on software engineering topics
